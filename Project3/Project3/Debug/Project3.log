@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\data-struct\Project3\Project3\SeqStack.h(91): warning C4715: “SeqStack<int>::pop”: 不是所有的控件路径都返回值
+D:\data-struct\Project3\Project3\SeqStack.h(111): warning C4715: “SeqStack<int>::isEmpty”: 不是所有的控件路径都返回值
+  Project3.vcxproj -> D:\data-struct\Project3\Debug\Project3.exe
